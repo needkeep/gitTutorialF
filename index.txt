@@ -1,0 +1,9 @@
+git add "name"
+git status
+git commit -m "Add name"
+git push
+Файлы находятся в репозитории (в обладке)
+
+
+git pull
+Скачивает в ту папку
